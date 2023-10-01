@@ -1,13 +1,8 @@
-This is a simple calculator that calculates simple interest given the principal amount, time period in years, and annual rate of interest.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Input
-
-The calculator takes the following inputs:
-
-- p, principal amount
-- `t`: Time period in years
-- `r`: Annual rate of interest
-
-## Output
-
-The output of the calculator is:
+Input:
+    p, principal amount
+    t, time period in years
+    r, annual rate of interest
+Output
+    simple interest = p*t*r
